@@ -1,0 +1,29 @@
+
+# Maven build output
+target/
+
+# Java compiled files
+*.class
+*.jar
+
+# VS Code workspace settings
+.vscode/
+
+# Java and Maven temporary files
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Generated validation reports
+output/*
+
+# Keep the output folder
+!output/.gitkeep
+
+# User-provided Technical Orders
+uploads/*
+
+# Keep the uploads folder
+!uploads/.gitkeep

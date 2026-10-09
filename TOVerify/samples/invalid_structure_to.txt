@@ -1,0 +1,60 @@
+
+TO: 31W3-4-125-7
+TITLE: Network Management System Installation
+CLASSIFICATION: UNCLASSIFIED
+VERSION: 1.0
+
+1. INTRODUCTION
+
+1.1 PURPOSE
+This Technical Order provides installation instructions.
+
+1.2 SYSTEM DESCRIPTION
+The system provides network monitoring capabilities.
+
+1.3 NETWORK DIAGRAM
+DIAGRAM: network-diagram.png
+
+2. SYSTEM BASELINE
+
+2.1 HARDWARE
+Router and network switch equipment.
+
+2.1.1 Router
+
+2.1.1.1 Router Installation Data
+
+2.1.1.1.1 INVALID LEVEL FIVE
+This section intentionally exceeds four hierarchy levels.
+
+2.2 SOFTWARE
+Network Management Application.
+
+2.3 FIRMWARE
+Router firmware.
+
+2.4 LOCATIONS
+Main Equipment Room.
+
+3. INSTALLATION SETUP
+
+3.1 INSTALLATION REQUIREMENTS
+Verify required installation materials.
+
+3.2 PRE-INSTALLATION CHECK
+Verify power and network connectivity.
+
+4. INSTALLATION
+
+4.1 INSTALL ROUTER
+Install the router in the designated rack.
+
+5. CONFIGURATION
+
+5.1 ROUTER CONFIGURATION
+Configure the router management interface.
+
+6. SECURITY
+
+6.1 SYSTEM HARDENING
+Apply required security settings.

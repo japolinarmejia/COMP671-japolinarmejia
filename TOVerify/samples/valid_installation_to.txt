@@ -1,0 +1,79 @@
+TO: 31W3-4-123-7
+TITLE: Network Management System Installation
+CLASSIFICATION: UNCLASSIFIED
+VERSION: 1.0
+
+1. INTRODUCTION
+
+1.1 PURPOSE
+This Technical Order provides instructions for installing the Network Management System.
+
+1.2 SYSTEM DESCRIPTION
+The Network Management System provides network monitoring and management capabilities.
+
+1.3 NETWORK DIAGRAM
+DIAGRAM: network-diagram.png
+
+2. SYSTEM BASELINE
+
+2.1 HARDWARE
+
+2.1.1 Router
+MODEL: ABC-1000
+QUANTITY: 2
+
+2.1.2 Network Switch
+MODEL: XYZ-500
+QUANTITY: 4
+
+2.2 SOFTWARE
+
+2.2.1 Network Management Application
+VERSION: 5.2
+
+2.3 FIRMWARE
+
+2.3.1 Router Firmware
+VERSION: 3.14
+
+2.4 LOCATIONS
+
+2.4.1 Main Equipment Room
+QUANTITY: 4
+
+2.4.2 Communications Room
+QUANTITY: 2
+
+3. INSTALLATION SETUP
+
+3.1 INSTALLATION REQUIREMENTS
+Verify that all required hardware and installation materials are available.
+
+3.2 PRE-INSTALLATION CHECK
+Verify that power and network connectivity are available.
+
+4. INSTALLATION
+
+4.1 ROUTER INSTALLATION
+
+4.1.1 INSTALL ROUTER
+Install the router in the designated rack position.
+
+4.1.1.1 CONNECT ROUTER
+Connect the required power and network cables.
+
+5. CONFIGURATION
+
+5.1 ROUTER CONFIGURATION
+Configure the router management interface.
+
+5.2 CONFIGURATION VERIFICATION
+Verify that the router configuration is correct.
+
+6. SECURITY
+
+6.1 SYSTEM HARDENING
+Apply the required system security settings.
+
+6.2 SECURITY VERIFICATION
+Verify that the required security settings have been applied.
